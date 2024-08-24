@@ -1,4 +1,4 @@
-package appcaravanacloud;
+package academy.quarkus;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
